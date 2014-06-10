@@ -14,7 +14,7 @@
     text-align: right;
     font-size: 20px; 
     color: grey;
-    display: inline;
+    display: block;
 }
 
 html {
