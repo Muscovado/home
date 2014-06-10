@@ -1,0 +1,28 @@
+.container{
+    font-family: 'Ubuntu', sans-serif;
+    width: 600px;
+    height: 220px;
+    margin: 0 auto;
+}
+.logo{
+    font-size: 100px;
+    color: #3366dd; 
+    vertical-align: middle;
+    display: inline;
+}
+.tagline{
+    font-size: 20px; 
+    color: grey;
+    display: inline;
+}
+
+html {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
