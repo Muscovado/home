@@ -1,29 +1,20 @@
-.container{
+body{
     font-family: 'Ubuntu', sans-serif;
-    width: 600px;
-    height: 220px;
-    margin: 0 auto;
 }
 .logo{
-    font-size: 100px;
-    color: #3366dd; 
-    vertical-align: middle;
-    display: inline;
+    font-size: 120px;
+    color: #3366dd;
+    height: 140px;
 }
 .tagline{
-    text-align: right;
-    font-size: 20px; 
-    color: grey;
-    display: block;
-}
+    font-size: 25px; 
+    color: #808080;
+    height: 40px;
 
-html {
-    display: table;
-    height: 100%;
-    width: 100%;
 }
-
-body {
-    display: table-cell;
-    vertical-align: middle;
+img{
+    height: 100px;
+    width: 100px;
 }
+.spacer{         height: 100px; }
+.half-spacer{    height: 50px;  }
